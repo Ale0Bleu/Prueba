@@ -1,2 +1,2 @@
 let salida = document.getElementById("salida")
-salida.innerHTML=` hola mundo`
+salida.innerHTML=`Saludos universo`
